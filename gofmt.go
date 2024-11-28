@@ -61,7 +61,7 @@ var version = ""
 
 // Keep these in sync with go/format/format.go.
 const (
-	tabWidth    = 8
+	tabWidth    = 4
 	printerMode = printer.UseSpaces | printerNormalizeNumbers
 
 	// printerNormalizeNumbers means to canonicalize number literal prefixes
